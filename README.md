@@ -1,5 +1,5 @@
 # target_2022
-My learning target for 2022
+Learning target for 2022
 
 
 ## Arrays
